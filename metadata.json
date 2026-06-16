@@ -1,0 +1,6 @@
+{
+  "name": "CycleSync",
+  "description": "Premium, privacy-first Menstrual Cycle, Mood, and Self-Care Habit Tracker featuring an elegant frosted-glass theme, daily affirmations, and wellness algorithms.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
